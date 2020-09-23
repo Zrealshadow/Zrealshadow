@@ -8,7 +8,10 @@ I used to study at BIT DB Lab under the supervision of [Prof. Meihui Zhang](http
 
 I received the admission from Computer science and engineering Department in Tufts Univeristy. Because of COVID-19, I am hanging up at home. 2333 
 
-You can reach me by Zenglz_pro@163.com
+You can reach me by Zenglz_pro@163.com / lingze.pro@gmail.com
+
+[Online-CV](https://zrealshadow.github.io/online-cv/)
+[Blog](https://zrealshadow.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zrealshadow&show_icons=true" />
