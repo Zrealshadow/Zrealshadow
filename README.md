@@ -1,6 +1,6 @@
 
 ## Hi There
-I'm a graduated student from Beijing Institude Technology. 
+I'm a graduated student from Beijing Institude of Technology. 
 
 I used to study at BIT DB Lab under the supervision of [Prof. Meihui Zhang](http://cs.bit.edu.cn/szdw/jsml/js/zmh/index.htm) , and do some research on knowledge graph.
 
