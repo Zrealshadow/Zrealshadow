@@ -10,8 +10,10 @@ I received the admission from Computer science and engineering Department in Tuf
 
 You can reach me by Zenglz_pro@163.com / lingze.pro@gmail.com
 
-[Online-CV](https://zrealshadow.github.io/online-cv/)
-[Blog](https://zrealshadow.github.io/)
+This is my [Online-CV](https://zrealshadow.github.io/online-cv/) <br>
+I will share some article in [Blog](https://zrealshadow.github.io/)
+
+<br>I also share some code segment or summary pattern in [Gist](https://gist.github.com/Zrealshadow)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zrealshadow&show_icons=true" />
