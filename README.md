@@ -14,9 +14,7 @@
 <details>
   <summary>Some other facts about me</summary>
   <br>
-  <br>
-  <br>
-
+***
 🎓  Edu.
 
 I'm a graduated student from Beijing Institude of Technology 🏫
