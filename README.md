@@ -56,9 +56,9 @@ Here's a list of things I currently keep myself busy with:
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zrealshadow&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zrealshadow&layout=compact&theme=tokyonight" />
-</a>
+</a> -->
   <br><br>
 </details>
 
