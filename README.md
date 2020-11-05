@@ -1,36 +1,11 @@
 <img src="https://raw.githubusercontent.com/Zrealshadow/Zrealshadow/master/sss.png" alt="Hero image">
 <br>
 
-🎓  Edu.
+I'm Lingze,  a Graduated student from BIT 🏫
 
-I'm a graduated student from Beijing Institude of Technology 🏫
-
-I used to study at BIT DB Lab under the supervision of 👩‍🏫[Prof. Meihui Zhang](http://cs.bit.edu.cn/szdw/jsml/js/zmh/index.htm) , and do some research on knowledge graph 📖. 
-
-My final Project is a tiny [Academic Knowledge Graph](http://47.98.184.87/). (I extremely appreciate my professor's help on me.)
-
-
-
-🗒 Tiny Ad.
-
-Prof.Zhang is a nice teacher and professor. Any talented students in Bit who are interested in database, data mining and want to do further academic investigation can contest her and join her lab. It will be a good journy for you,definitely.
-
-
-
-👀 Status.
-
-I received the admission from Computer science and engineering Department in Tufts Univeristy.🇺🇸🏫
-
-Because of COVID-19 😷, I am hanging up at home. 
-
-Update🔝: It is too dangerous in U.S,😭  I' am tring to apply for a PhD in 🇸🇬 (Maybe NUS)
-
-Now, I'am working for a Startups as an algorithm Intern in HangZhou 🏙, help them to build a medical knowledge graph 🏥
-
-
+CS Rookie
 
 ✨ Todo
-
 Here's a list of things I currently keep myself busy with:
 
 - 💻 Working as a algorithmn Intern. Read papers about NLP and Big Data, reimplement them using [PyTorch](https://pytorch.org/)
@@ -44,6 +19,30 @@ Here's a list of things I currently keep myself busy with:
   <summary>Some other facts about me</summary>
   <br>
 
+🎓  Edu.
+
+I'm a graduated student from Beijing Institude of Technology 🏫
+
+I used to study at BIT DB Lab under the supervision of 👩‍🏫[Prof. Meihui Zhang](http://cs.bit.edu.cn/szdw/jsml/js/zmh/index.htm) , and do some research on knowledge graph 📖. 
+
+My final Project is a tiny [Academic Knowledge Graph](http://47.98.184.87/). (I extremely appreciate my professor's help on me.)
+
+
+🗒 Tiny Ad.
+
+Prof.Zhang is a nice teacher and professor. Any talented students in Bit who are interested in database, data mining and want to do further academic investigation can contest her and join her lab. It will be a good journy for you,definitely.
+
+👀 Status.
+
+I received the admission from Computer science and engineering Department in Tufts Univeristy.🇺🇸🏫
+
+Because of COVID-19 😷, I am hanging up at home. 
+
+Update🔝: It is too dangerous in U.S,😭  I' am tring to apply for a PhD in 🇸🇬 (Maybe NUS)
+
+Now, I'am working for a Startups as an algorithm Intern in HangZhou 🏙, help them to build a medical knowledge graph 🏥
+
+:smiley: Me.
 - 📄 [online-cv](https://zrealshadow.github.io/online-cv/)
 
 
