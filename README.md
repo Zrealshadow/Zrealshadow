@@ -1,6 +1,5 @@
-<img src="./readme/hero.svg" alt="Hero image">
-
- 
+<img src="https://raw.githubusercontent.com/Zrealshadow/Zrealshadow/master/sss.png" alt="Hero image">
+<br>
 
 🎓  Edu.
 
