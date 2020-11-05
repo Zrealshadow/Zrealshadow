@@ -1,13 +1,9 @@
 <img src="https://raw.githubusercontent.com/Zrealshadow/Zrealshadow/master/sss.png" alt="Hero image">
-<br>
 
-I'm Lingze,  a Graduated student from BIT 🏫
 
-CS Rookie
+:wave:I'm Lingze,  a Graduated student from BIT 🏫
 
-✨ Todo
-Here's a list of things I currently keep myself busy with:
-
+✨ Here's a list of things I currently keep myself busy with:
 - 💻 Working as a algorithmn Intern. Read papers about NLP and Big Data, reimplement them using [PyTorch](https://pytorch.org/)
 - 💿 Maintaining [OpenNLPhub](https://github.com/OpenNLPhub), It's an organization, but it more like a own repositary about NLP hahahaha.
 - ✍️ Writing tech [blog](https://zrealshadow.github.io/) posts and share some funny code in [Gist](https://gist.github.com/Zrealshadow)
@@ -17,6 +13,8 @@ Here's a list of things I currently keep myself busy with:
 
 <details>
   <summary>Some other facts about me</summary>
+  <br>
+  <br>
   <br>
 
 🎓  Edu.
@@ -63,8 +61,6 @@ Now, I'am working for a Startups as an algorithm Intern in HangZhou 🏙, help t
 <hr>
 <p align="center">
   <i>mens et manus.</i>
-
-
   <p align="center">
     <a href="https://twitter.com/@llllingze_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
@@ -72,5 +68,4 @@ Now, I'am working for a Startups as an algorithm Intern in HangZhou 🏙, help t
     <a href="https://zrealshadow.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 </p>
-
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
