@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/Zrealshadow/Zrealshadow/master/sss.png" alt="Hero image">
 
 
-:wave:I'm Lingze,  a Graduated student from BIT 🏫
+:wave:I'm Lingze,  a Graduated Student from BIT 🏫
+
+摸鱼达人 moyu VIP
 
 ✨ Here's a list of things I currently keep myself busy with:
 - 💻 Working as a algorithmn Intern. Read papers about NLP and Big Data, reimplement them using [PyTorch](https://pytorch.org/)
@@ -15,7 +17,9 @@
   <summary>Some other facts about me</summary>
   <br>
 ***
-🎓  Edu.
+
+
+🎓 Edu.
 
 I'm a graduated student from Beijing Institude of Technology 🏫
 
@@ -24,9 +28,9 @@ I used to study at BIT DB Lab under the supervision of 👩‍🏫[Prof. Meihui 
 My final Project is a tiny [Academic Knowledge Graph](http://47.98.184.87/). (I extremely appreciate my professor's help on me.)
 
 
-🗒 Tiny Ad.
+<!-- 🗒 Tiny Ad.
 
-Prof.Zhang is a nice teacher and professor. Any talented students in Bit who are interested in database, data mining and want to do further academic investigation can contest her and join her lab. It will be a good journy for you,definitely.
+Prof.Zhang is a nice teacher and professor. Any talented students in Bit who are interested in database, data mining and want to do further academic investigation can contest her and join her lab. It will be a good journy for you,definitely. -->
 
 👀 Status.
 
