@@ -3,7 +3,8 @@
 
 :wave:I'm Lingze,  a Graduated Student from BIT 🏫
 
-摸鱼达人 moyu VIP
+摸鱼达人 学术写作练习生 
+一年中不想写Paper的第366天
 
 ✨ Here's a list of things I currently keep myself busy with:
 - 💻 Working as a algorithmn Intern. Read papers about NLP and Big Data, reimplement them using [PyTorch](https://pytorch.org/)
