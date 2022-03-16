@@ -1,6 +1,6 @@
 **:wave:Hi, I'm Lingze**
 
-​	一辈子也不想跟NUS的HR说话了，很难开心起来
+​	Now I'm a research assistant in NUS.
 
 :smiley: **Me.**
 
