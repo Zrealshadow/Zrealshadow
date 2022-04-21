@@ -1,6 +1,12 @@
 **:wave:Hi, I'm Lingze**
 
-​	Now I'm a research assistant in NUS.
+A graduated student from Beijing Institute of Technology, supervised by [Prof. Meihui ZHANG](https://zmeihui.github.io/).
+
+A research Intern. in Institute of Computer Innovation ZJU, under the guidance of [Dr. zhongle XIE](https://github.com/xiezl).
+
+( Appreciate for their help and support in my growth, as teacher or as friend. :smile_cat:)
+
+A research assistant in NUS now.
 
 :smiley: **Me.**
 
